@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sarabisohrab<br>👀 I’m interested in Web Development and many of its derivatives and also AI!<br>🌱 I’m currently learning Machine Learning and making myself a better Web Developer!<br>💞️ I’m looking to collaborate on fun and cool PHP projects.<br>📫 You can reach me through:<br>Twitter ✅<br>LinkedIn ✅<br>Telegram ✅<br>Instagram ✅<br>Facebook ✅<br>sarabisohrab.github.io ✅<br>sarabisohrab.ir 💤
+👋 Hi, I’m @sarabisohrab<br>👀 I’m interested in Web Development and many of its derivatives and also AI!<br>🌱 I’m currently learning Machine Learning and making myself a better Web Developer!<br>💞️ I’m looking to collaborate on fun and cool PHP projects.<br>📫 You can reach me through:<br>Twitter ✅<br>LinkedIn ✅<br>Telegram ✅<br>Instagram ✅<br>Facebook ✅<br>sarabisohrab.github.io ✅<br>sarabisohrab.ir ✅
 
 
 ## 🌐 Socials:
